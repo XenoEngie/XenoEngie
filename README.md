@@ -55,6 +55,6 @@ Check out my hard skills as well! ⬇️
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-## Let's cath up!
+## Let's caсth up!
 Struggling with testing? Hit me up! I can help you improve your software's quality.
 ![image](https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_04/story_31699/assets/10.gif?time=1681724112&size=*:900)
